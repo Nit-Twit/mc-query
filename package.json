@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "varint": "^6.0.0"
+  },
+  "name": "@nittwit_/mcquery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/varint": "^6.0.3"
+  }
+}
